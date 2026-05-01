@@ -1,0 +1,5 @@
+{
+  "outputDirectory": "dist",
+  "buildCommand": "echo skip",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
